@@ -5,7 +5,7 @@ body {
 header {
     background-color: #f8f9fa;
     padding: 20px;
-    text-align: center;
+    text-align: left;
     position: relative;
 }
 
@@ -30,6 +30,8 @@ button {
     z-index: 1;
     top: 50px; /* Adjusted to ensure it aligns below the button */
     left: 0;
+    position: relative;
+    text-align: left;
 }
 
 .dropdown-content a {
