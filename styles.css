@@ -30,7 +30,7 @@ button {
     z-index: 1;
     top: 50px; /* Adjusted to ensure it aligns below the button */
     left: 0;
-    position: relative;
+    position: absolute;
     text-align: left;
 }
 
